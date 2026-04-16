@@ -9,4 +9,4 @@ Shell scripts :
   -  Contigs_building_dereplication_and_taxonomic_assignment
   -  Remapping_on_viral_contigs
 
-R script :
+R script : Multi_omics_analyses_Verdy.R
